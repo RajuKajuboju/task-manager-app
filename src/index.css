@@ -1,0 +1,24 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+body {
+  background: linear-gradient(to right, #7330ba, #f5498e);
+  height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  
+}
+
+html, body {
+  
+  overflow:hidden;
+  
+}
+
+.container-fluid 
+{
+  min-height: 100%;
+  overflow-y: auto;
+ overflow-x: auto;
+
+}
+
+
